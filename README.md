@@ -1,6 +1,6 @@
-# Week 2 workshop - Fun with quadratic roots
+# Week 2 workshop - Fun with polynomials
 
-This week, like in Week 1, you will pair-program with another student. You will use Python to calculate quadratic roots (real and complex). You will also learn what is a **merge conflict** and how to resolve it.
+This week, like in Week 1, you will pair-program with another student. You will use Python to evaluate polynomial derivatives. You will also learn what is a **merge conflict** and how to resolve it.
 
 #### Roles
 
